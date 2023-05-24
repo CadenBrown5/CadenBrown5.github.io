@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Top MLB statistics table</title>
+    <link href="minimal-table.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <h1>MLB statistical team leaders</h1>
+
+    <table>
+      <tr>
+        <td>&nbsp;</td>
+        <th scope="col">Tampa Bay Rays</th>
+        <th scope="col">Texas Rangers</th>
+        <th scope="col">Atlanta Braves</th>
+        <th scope="col">St. Louis Cardinals</th>
+      </tr>
+      <tr>
+        <th scope="row">Batting Average</th>
+        <td>.269</td>
+        <td>.271</td>
+        <td>.256</td>
+        <td>.263</td>
+      </tr>
+      <tr>
+        <th scope="row">On Base Percentage</th>
+        <td>.345</td>
+        <td>.340</td>
+        <td>.332</td>
+        <td>.336</td>
+      </tr>
+      <tr>
+        <th scope="row">Homeruns</th>
+        <td>95</td>
+        <td>65</td>
+        <td>78</td>
+        <td>70</td>
+      </tr>
+      <tr>
+        <th scope="row">On Base Plus Slugging</th>
+        <td>.845</td>
+        <td>.794</td>
+        <td>.788</td>
+        <td>.778</td>
+      </tr>
+    </table>
+
+
+  </body>
+</html>
